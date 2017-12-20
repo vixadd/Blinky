@@ -6,7 +6,7 @@ The application mainframe is hard, however, the setup can be found in several di
 ```
 	MACHINE SPECIFICATION:
 		PHONE: 		Motorola Moto Z
-		OS:    		Ubuntu 17.10
+		OS:    		Ubuntu 16.04
 		JAVA VERSION: 	1.8.0_151
 ```
 
